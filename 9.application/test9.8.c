@@ -33,7 +33,7 @@ void print_result(int *a, int n)
         }
     }
 }
-void main()
+int main()
 {
 #define N 1000
     int a[N];
