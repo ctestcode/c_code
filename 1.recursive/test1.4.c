@@ -11,7 +11,7 @@ int fibonacci(int n)
 
 int main()
 {
-    int n = 5  //项数
+    int n = 5;  //项数
     int i;
     for (i = 1; i <= n; i++)
         printf("%d,", fibonacci(i));

@@ -16,7 +16,7 @@ void print_level()
         }
     }
 }
-void main()
+int main()
 {
     print_level();
 }
