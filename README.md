@@ -2,6 +2,9 @@
 C 语言实战题库。
 关注公众号  ctestcode 加入C语言精通之旅
 
+软件下载地址
+https://ctestcode.cn/c_code_helper.exe
+
 你也可以上传试题，试题内容可以加入自己署名信息，让更多人了解你哦。
 
 # 格式 第一行选择分类
